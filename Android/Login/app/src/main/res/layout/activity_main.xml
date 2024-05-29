@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_1"
+    android:stretchColumns="*"
+    tools:context=".MainActivity">
+
+    <TableRow>
+
+        <TextView
+
+            android:layout_gravity="center"
+            android:layout_marginTop="25dp"
+            android:layout_span="3"
+            android:paddingBottom="10dp"
+            android:text="Login"
+            android:textColor="#FFFFFF"
+            android:textSize="70dp"
+
+            android:textStyle="bold|italic" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_column="1"
+            android:text="Username :"
+            android:textColor="#FFFFFF"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:hint="Enter Username"
+            android:textColor="#FFFFFF"
+            android:textSize="25dp" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:layout_column="1"
+            android:text="Password :"
+            android:textColor="#FFFFFF"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <EditText
+
+            android:hint="Enter Password"
+            android:textSize="25dp" />
+    </TableRow>
+
+    <TableRow>
+
+        <Button
+            android:layout_marginTop="30dp"
+            android:layout_span="3"
+            android:text="Submit"
+            android:textSize="25dp" />
+    </TableRow>
+</TableLayout>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScrollText</string>
+    <string name="scroll_txt">Android is a Open Source linux kernal based operating system</string>
+</resources>
