@@ -1,0 +1,9 @@
+D:\Program Code\Vb\Q3\Q3\bin\Debug\Q3.exe.config
+D:\Program Code\Vb\Q3\Q3\bin\Debug\Q3.exe
+D:\Program Code\Vb\Q3\Q3\bin\Debug\Q3.pdb
+D:\Program Code\Vb\Q3\Q3\bin\Debug\Q3.xml
+D:\Program Code\Vb\Q3\Q3\obj\Debug\Q3.Resources.resources
+D:\Program Code\Vb\Q3\Q3\obj\Debug\Q3.vbproj.GenerateResource.Cache
+D:\Program Code\Vb\Q3\Q3\obj\Debug\Q3.exe
+D:\Program Code\Vb\Q3\Q3\obj\Debug\Q3.xml
+D:\Program Code\Vb\Q3\Q3\obj\Debug\Q3.pdb

@@ -1,0 +1,10 @@
+D:\Program Code\Vb\Q14\Q14\bin\Debug\Q14.exe.config
+D:\Program Code\Vb\Q14\Q14\bin\Debug\Q14.exe
+D:\Program Code\Vb\Q14\Q14\bin\Debug\Q14.pdb
+D:\Program Code\Vb\Q14\Q14\bin\Debug\Q14.xml
+D:\Program Code\Vb\Q14\Q14\obj\Debug\Q14.Form1.resources
+D:\Program Code\Vb\Q14\Q14\obj\Debug\Q14.Resources.resources
+D:\Program Code\Vb\Q14\Q14\obj\Debug\Q14.vbproj.GenerateResource.Cache
+D:\Program Code\Vb\Q14\Q14\obj\Debug\Q14.exe
+D:\Program Code\Vb\Q14\Q14\obj\Debug\Q14.xml
+D:\Program Code\Vb\Q14\Q14\obj\Debug\Q14.pdb

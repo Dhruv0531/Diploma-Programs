@@ -1,0 +1,10 @@
+D:\Program Code\Vb\Q10\Q10\bin\Debug\Q10.exe.config
+D:\Program Code\Vb\Q10\Q10\obj\Debug\Q10.Form1.resources
+D:\Program Code\Vb\Q10\Q10\obj\Debug\Q10.Resources.resources
+D:\Program Code\Vb\Q10\Q10\obj\Debug\Q10.vbproj.GenerateResource.Cache
+D:\Program Code\Vb\Q10\Q10\bin\Debug\Q10.exe
+D:\Program Code\Vb\Q10\Q10\bin\Debug\Q10.pdb
+D:\Program Code\Vb\Q10\Q10\bin\Debug\Q10.xml
+D:\Program Code\Vb\Q10\Q10\obj\Debug\Q10.exe
+D:\Program Code\Vb\Q10\Q10\obj\Debug\Q10.xml
+D:\Program Code\Vb\Q10\Q10\obj\Debug\Q10.pdb

@@ -1,0 +1,10 @@
+D:\Program Code\Vb\Q12\Q12\bin\Debug\Q12.exe.config
+D:\Program Code\Vb\Q12\Q12\bin\Debug\Q12.exe
+D:\Program Code\Vb\Q12\Q12\bin\Debug\Q12.pdb
+D:\Program Code\Vb\Q12\Q12\bin\Debug\Q12.xml
+D:\Program Code\Vb\Q12\Q12\obj\Debug\Q12.Form1.resources
+D:\Program Code\Vb\Q12\Q12\obj\Debug\Q12.Resources.resources
+D:\Program Code\Vb\Q12\Q12\obj\Debug\Q12.vbproj.GenerateResource.Cache
+D:\Program Code\Vb\Q12\Q12\obj\Debug\Q12.exe
+D:\Program Code\Vb\Q12\Q12\obj\Debug\Q12.xml
+D:\Program Code\Vb\Q12\Q12\obj\Debug\Q12.pdb

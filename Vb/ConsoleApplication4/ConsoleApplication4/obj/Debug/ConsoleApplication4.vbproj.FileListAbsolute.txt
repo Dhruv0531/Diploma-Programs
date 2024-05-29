@@ -1,0 +1,3 @@
+D:\Program Code\Vb\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\Program Code\Vb\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.Resources.resources
+D:\Program Code\Vb\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.vbproj.GenerateResource.Cache

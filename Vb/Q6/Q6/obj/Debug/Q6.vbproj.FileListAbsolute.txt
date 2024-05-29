@@ -1,0 +1,10 @@
+D:\Program Code\Vb\Q6\Q6\bin\Debug\Q6.exe.config
+D:\Program Code\Vb\Q6\Q6\bin\Debug\Q6.exe
+D:\Program Code\Vb\Q6\Q6\bin\Debug\Q6.pdb
+D:\Program Code\Vb\Q6\Q6\bin\Debug\Q6.xml
+D:\Program Code\Vb\Q6\Q6\obj\Debug\Q6.Form1.resources
+D:\Program Code\Vb\Q6\Q6\obj\Debug\Q6.Resources.resources
+D:\Program Code\Vb\Q6\Q6\obj\Debug\Q6.vbproj.GenerateResource.Cache
+D:\Program Code\Vb\Q6\Q6\obj\Debug\Q6.exe
+D:\Program Code\Vb\Q6\Q6\obj\Debug\Q6.xml
+D:\Program Code\Vb\Q6\Q6\obj\Debug\Q6.pdb

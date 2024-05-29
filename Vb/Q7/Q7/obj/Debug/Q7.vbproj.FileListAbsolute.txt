@@ -1,0 +1,9 @@
+D:\Program Code\Vb\Q7\Q7\bin\Debug\Q7.exe.config
+D:\Program Code\Vb\Q7\Q7\obj\Debug\Q7.Resources.resources
+D:\Program Code\Vb\Q7\Q7\obj\Debug\Q7.vbproj.GenerateResource.Cache
+D:\Program Code\Vb\Q7\Q7\bin\Debug\Q7.exe
+D:\Program Code\Vb\Q7\Q7\bin\Debug\Q7.pdb
+D:\Program Code\Vb\Q7\Q7\bin\Debug\Q7.xml
+D:\Program Code\Vb\Q7\Q7\obj\Debug\Q7.exe
+D:\Program Code\Vb\Q7\Q7\obj\Debug\Q7.xml
+D:\Program Code\Vb\Q7\Q7\obj\Debug\Q7.pdb

@@ -1,0 +1,9 @@
+D:\Program Code\Vb\Q19\Q19\bin\Debug\Q19.exe.config
+D:\Program Code\Vb\Q19\Q19\bin\Debug\Q19.exe
+D:\Program Code\Vb\Q19\Q19\bin\Debug\Q19.pdb
+D:\Program Code\Vb\Q19\Q19\bin\Debug\Q19.xml
+D:\Program Code\Vb\Q19\Q19\obj\Debug\Q19.Resources.resources
+D:\Program Code\Vb\Q19\Q19\obj\Debug\Q19.vbproj.GenerateResource.Cache
+D:\Program Code\Vb\Q19\Q19\obj\Debug\Q19.exe
+D:\Program Code\Vb\Q19\Q19\obj\Debug\Q19.xml
+D:\Program Code\Vb\Q19\Q19\obj\Debug\Q19.pdb

@@ -1,0 +1,4 @@
+D:\Program Code\Vb\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe.config
+D:\Program Code\Vb\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Form1.resources
+D:\Program Code\Vb\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Resources.resources
+D:\Program Code\Vb\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.vbproj.GenerateResource.Cache

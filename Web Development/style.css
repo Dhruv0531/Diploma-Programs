@@ -1,0 +1,7 @@
+.texthover:hover{
+  color: black;
+  text-decoration: underline;
+}
+p{
+  color: gray;
+}

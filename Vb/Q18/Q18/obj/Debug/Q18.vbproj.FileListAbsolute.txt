@@ -1,0 +1,10 @@
+D:\Program Code\Vb\Q18\Q18\bin\Debug\Q18.exe.config
+D:\Program Code\Vb\Q18\Q18\bin\Debug\Q18.exe
+D:\Program Code\Vb\Q18\Q18\bin\Debug\Q18.pdb
+D:\Program Code\Vb\Q18\Q18\bin\Debug\Q18.xml
+D:\Program Code\Vb\Q18\Q18\obj\Debug\Q18.Form1.resources
+D:\Program Code\Vb\Q18\Q18\obj\Debug\Q18.Resources.resources
+D:\Program Code\Vb\Q18\Q18\obj\Debug\Q18.vbproj.GenerateResource.Cache
+D:\Program Code\Vb\Q18\Q18\obj\Debug\Q18.exe
+D:\Program Code\Vb\Q18\Q18\obj\Debug\Q18.xml
+D:\Program Code\Vb\Q18\Q18\obj\Debug\Q18.pdb

@@ -1,0 +1,173 @@
+#Opening files in different modes
+Before performing any operation on file like reading or writing. First we have to open that file, for this use the python's inbuild fn "open()"
+Syntax:
+f = open(filename,mode) 
+The following mode suported by the python file:
+1. opening mode r - Read mode
+The default value opens a file for reading, error if the file does not exists.
+
+2. write mode- w
+Opens an existing file for write operation, if the file already contains some data then it will be overridden, but if the file is not present than it creates the file aswell.
+
+3. append mode - a
+open an existing file for append operation, it won't override the exixting data
+
+4. read and write - r+
+To read and write the data into file, the previous data in the file will be overridden
+
+5. write and read - w+
+To write and read the data from file, it will override the existing data 
+
+6. append and read - a+
+To append and read the data from file, it won't override existing data
+
+7. create mode - x
+create specified file, returns an error it the file exists
+
+In addition we can specify if the file should be handle as binary or text mode
+default is text mode
+1. text mode - t
+2. binary mode - b
+
+# Accessing the contents of file using standard library functions
+#Read mode
+demo.txt - Welcome to python
+f=open("demo.txt","r")
+
+for data in f:
+    print(data)
+# 2nd way
+data = f.read()  # reads whole file at a time, f.read(no.of chars) - read specific no.of chars from file,  f.readline() - reads only one line from file(use for loop for multiple lines)
+print(data)
+
+readlines() - read and return a list of lines from the file
+
+
+The python automatically closes the file when the refrence object of file is reassign to another file, it is a good practice to use close method to close a file 
+
+#with statement in python 
+with open("abc.txt", "r") as f:
+    data = f.read()
+print(data)
+
+# mkdir
+we can create a new directory using mkdir method, this method takes in the path of new directory if the full oath is not specified the new directory is created in current working directory
+import os as o
+o.mkdir("python")
+
+rename- takes two arguments (current file name, new file name)
+remove - deletes the file by passing the name of the file to be deleted as argument
+
+# Exception Handling:
+
+Exception: It can be defined as an abnormal condition or unexpected event in a program resulting in disruption in the flow of the program. Pyhton provides the way to handle the exception so that the other part of the code can be exicuted without any disruption, if we do not handle the exception the interpreter doesn't execute all the code that exists after that exception.
+
+Common Exception:
+1. Zero Division Error: Occurs when the number divided by zero.
+2. Name error: It occurs when the name is not found
+3. Indentation Error: occur If incorrect Indentation is given
+4. I/O Error: Occurs when inout/output operation fail
+5. EOF Error: It occurs when end of the file reach and the operations are being performed
+
+try accept statement:
+Syntax:
+try:
+    # Code that may cause exception
+except:
+    # Code to run when exception occurs
+
+We have placed the code that might generate an exception inside the try block 
+The every try block is followed by an except block
+When an exception occur it is called by except block
+The except block cannot be used without try block
+Eg:
+a = 5
+b = 0
+try:
+    print(a/b)
+except ZeroDivisionError:
+    print("Zero Division Error")
+
+Using multiple exception:
+Syntax:
+try:
+    # Code that may cause exception
+except:
+    # Code to run when exception occurs exception 1
+except:
+    # Code to run when exception occurs exception 2
+
+Eg:
+a = 5
+b = 1
+try:
+    print(a/b)
+    print(c)
+except ZeroDivisionError:
+    print("Zero Division Error")
+except NameError:
+    print("Name Error")
+
+#Else statement with try,except statement
+Syntax:
+try:
+    # Code that may cause exception
+except:
+    # Code to run when exception occurs
+else:
+    # Code to run when no exception occurs
+
+Eg:
+a=int(input("Enter a:"))
+b=int(input("Enter b:"))
+try:
+    c=a/b
+except ZeroDivisionError:
+    print("Divide by Zero Exception")
+else:
+    print(c)
+
+# Finally block
+Syntax:
+try:
+    # Code that may cause exception
+except:
+    # Code to run when exception occurs
+finally:
+    # Code to run whether exception occurs or not
+
+Eg:
+a = int(input("Enter a:"))
+b = int(input("Enter b:"))
+try:
+    c = a/b
+except ZeroDivisionError:
+    print("Divide by Zero Exception.. Cannot divide by zero")
+finally:
+    print("Finally Block")
+    print(c)
+
+# Raise an Exception
+to throw or raise an exception use the "raise" keyword 
+Eg:
+age = int(input("Enter Age:"))
+try:
+    if age < 18:
+        raise Exception("Invalid Age")
+    else:
+        print("Valid Age")
+except Exception as e:
+    print("Exception:", e)
+
+# User Defined Exception
+class AgeException(Exception):
+    def __init__(self,message):
+        self.message = message
+try:
+    age = int(input("Enter Age:))
+    if age < 18 :
+        raise AgeException("Invalid Age")
+    else :
+        print("Valid Age")
+except AgeException as e:
+    print(e.message)

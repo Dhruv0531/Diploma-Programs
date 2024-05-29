@@ -1,0 +1,10 @@
+D:\Program Code\Vb\Reverse\Reverse\bin\Debug\Reverse.exe.config
+D:\Program Code\Vb\Reverse\Reverse\bin\Debug\Reverse.exe
+D:\Program Code\Vb\Reverse\Reverse\bin\Debug\Reverse.pdb
+D:\Program Code\Vb\Reverse\Reverse\bin\Debug\Reverse.xml
+D:\Program Code\Vb\Reverse\Reverse\obj\Debug\Reverse.Form1.resources
+D:\Program Code\Vb\Reverse\Reverse\obj\Debug\Reverse.Resources.resources
+D:\Program Code\Vb\Reverse\Reverse\obj\Debug\Reverse.vbproj.GenerateResource.Cache
+D:\Program Code\Vb\Reverse\Reverse\obj\Debug\Reverse.exe
+D:\Program Code\Vb\Reverse\Reverse\obj\Debug\Reverse.xml
+D:\Program Code\Vb\Reverse\Reverse\obj\Debug\Reverse.pdb

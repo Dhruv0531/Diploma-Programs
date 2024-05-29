@@ -1,0 +1,9 @@
+D:\Program Code\Vb\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+D:\Program Code\Vb\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.Resources.resources
+D:\Program Code\Vb\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.vbproj.GenerateResource.Cache
+D:\Program Code\Vb\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\Program Code\Vb\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\Program Code\Vb\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.xml
+D:\Program Code\Vb\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\Program Code\Vb\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.xml
+D:\Program Code\Vb\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

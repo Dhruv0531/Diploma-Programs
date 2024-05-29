@@ -1,0 +1,102 @@
+self - reference of current variable of class
+Syntax of class:
+class Student:  - by default everything is public
+    def set(self):
+        self.rollno = 10 # Instance Variable
+        self.name = "xyz"# Instance Variable
+    def put(self):
+        print("Roll No:",self.rollno)
+        print("Name:",self.name)
+
+s = Student()  - Method call statement
+s.set()  - Student.set(s)
+s.put()  - Student.put(s)
+
+# Parameterized Class
+
+class Student:  
+    def set(self,rollno,name):
+        self.rollno = rollno    #Class Variable
+        self.name = name    #Class Variable
+    def put(self):
+        print("Roll No:",self.rollno)
+        print("Name:",self.name)
+
+s = Student()  #- Method call statement
+s.set(10,"xyz")  #- Student.set(s,10,"xyz")
+s.put()  #- Student.put(s)
+
+class Student1:
+    branch = "Computer" #Class variable
+
+    def set(self, div):
+        # self.branch = branch
+        self.div = div
+
+    def put(self):
+        print("Branch:", self.branch)
+        print("Division:", self.div)
+
+
+s1 = Student1()
+s1.set("A")
+s1.put()
+
+# Method Overloading
+class Demo:
+    def add(self,a,b):
+        return a+b
+    def add(self,a,b,c):
+        return a+b+c
+    
+d = Demo()
+print(d.add(10,20,30))
+print(d.add(10,20))
+# Error will occur, need one more argument
+# This error occurs because it is taking the same add function twice, to resolve this error tak default arguments c = 0 or c = null
+ #Default argument
+ class Demo:
+    # def add(self, a, b):
+    #     return a+b
+
+    def add(self, a=None, b=None, c=None):
+        sum = 0
+        if a != None and b != None and c != None:
+            sum = a+b+c
+        elif a != None and b != None and c == None:
+            sum = a+b
+        return sum
+
+
+d = Demo()
+print(d.add(10, 20, 30))
+print(d.add(10, 20))
+
+#Variable length argument
+class Demo:
+    def add(self,*var):
+        return sum(var)  #sum=0
+                         # for i in var:
+                            # sum+=i
+                        # return sum
+    
+d=Demo()
+print(d.add(10,20,30))
+print(d.add(10,20))
+print(d.add(10,20,50,20))
+
+class Demo:
+    def add(self, a, b):
+        return a+b
+d = Demo()
+print(d.add(10, 20))
+print(d.add(10.5, 20.1))
+print(d.add("Hello", "World!"))
+
+# Inheritance
+# Single Inheritance
+class A:   - Base class 
+    pass
+
+class B(A): - Derived class, class name in () to implement that class
+    pass

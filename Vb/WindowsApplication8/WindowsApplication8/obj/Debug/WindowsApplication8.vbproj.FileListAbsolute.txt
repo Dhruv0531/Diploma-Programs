@@ -1,0 +1,9 @@
+D:\Program Code\Vb\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe.config
+D:\Program Code\Vb\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.exe
+D:\Program Code\Vb\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.pdb
+D:\Program Code\Vb\WindowsApplication8\WindowsApplication8\bin\Debug\WindowsApplication8.xml
+D:\Program Code\Vb\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.Resources.resources
+D:\Program Code\Vb\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.vbproj.GenerateResource.Cache
+D:\Program Code\Vb\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.exe
+D:\Program Code\Vb\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.xml
+D:\Program Code\Vb\WindowsApplication8\WindowsApplication8\obj\Debug\WindowsApplication8.pdb
